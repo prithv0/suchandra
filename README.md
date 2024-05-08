@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 LB Music 」──
+    ──「 𝐒𝐨𝐡𝐢𝐧𝐢 Music 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/3a33236b4432060c49161.jpg">
+  <img src="https://telegra.ph/file/29f3e0d2d5397eb2eea7c.jpg">
 </p>
 
 <h3 align="center">
